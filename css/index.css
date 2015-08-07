@@ -727,62 +727,64 @@ tbody tr:hover {
 }
 
 #index_56{
-    width:1036px;
-    height:128px;
-    margin-left:132px;
-    margin-top:31px;
-    display:inline-block;
-    text-align:left;
+    width:852px;
+    height:100%;
+    margin-top:0px;
+    float:right;
 }
 
 #index_57{
-    width:209px;
-    height:57px;
-    margin-left:76px;
-    margin-top:40px;
-    float:left;
-    display:inline;
+    width:50%;
+    height:105px;
+    clear:both;
+    margin-left: 50px;
+    margin-top: 60px;
+    display:inline-block;
     text-align:left;
+    float:left;
+
 }
 
 #index_58{
-    width:124px;
-    height:57px;
-    margin-left:49px;
-    margin-top:40px;
+    width:100px;
+    height:100px;
+    margin-left:0px;
+    margin-top:0px;
     float:left;
     display:inline;
-    text-align:left;
 }
 
 #index_59{
-    width:58px;
-    height:59px;
-    margin-left:47px;
-    margin-top:38px;
-    float:left;
-    display:inline;
-    text-align:left;
+    width:70%;
+    height:100px;
+    margin-left:120px;
+    margin-top:0px;
 }
 
 #index_60{
-    width:184px;
-    height:59px;
-    margin-left:50px;
-    margin-top:38px;
-    float:left;
-    display:inline;
+    width:100%;
+    height:25px;
+    clear:both;
+    margin-left:5px;
+    margin-top:0px;
+    display:inline-block;
     text-align:left;
+    color:#739800;
+    font-size:25px;
+    font-family:'Trebuchet MS', Arial, Helvetica;
 }
 
 #index_61{
-    width:164px;
-    height:57px;
-    margin-left:52px;
-    margin-top:38px;
-    float:left;
-    display:inline;
+    width:100%;
+    height:15px;
+    clear:both;
+    margin-left:5px;
+    margin-top:5px;
+    display:inline-block;
     text-align:left;
+    color:grey;
+    font-size:15px;
+    font-family:'Trebuchet MS', Arial, Helvetica;
 }
 
 #index_62{
@@ -795,7 +797,7 @@ tbody tr:hover {
 }
 
 #index_63{
-    width:46px;
+    width:45px;
     height:45px;
     margin-left:15px;
     margin-top:7px;
@@ -807,7 +809,7 @@ tbody tr:hover {
 #index_64{
     width:45px;
     height:45px;
-    margin-left:3px;
+    margin-left:5px;
     margin-top:7px;
     float:left;
     display:inline;
@@ -815,7 +817,7 @@ tbody tr:hover {
 }
 
 #index_65{
-    width:43px;
+    width:45px;
     height:45px;
     margin-left:5px;
     margin-top:7px;
@@ -895,15 +897,16 @@ tbody tr:hover {
     background-position:0px -0px;
 }
 
-/*
+
 #index_73{
-    width:100%;
-    height:80px;
-    clear:both;
-    text-align:center;
-    margin-top: 10px;
+    width:45px;
+    height:45px;
+    margin-left:5px;
+    margin-top:11px;
+    float:left;
+    display:inline;
+    text-align:left;
 }
-    */
 
 #index_74{
     width:100%;
@@ -952,6 +955,16 @@ tbody tr:hover {
     color:#2a49fa;
     font-size:15px;
     font-family:Arial, 'Times New Roman',Times, serif;
+}
+
+#index_79{
+    width:45px;
+    height:45px;
+    margin-left:0px;
+    margin-top:5px;
+    float:left;
+    display:inline;
+    text-align:left;
 }
 
 #index_80{
