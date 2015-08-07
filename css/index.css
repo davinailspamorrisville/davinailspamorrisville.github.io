@@ -727,10 +727,12 @@ tbody tr:hover {
 }
 
 #index_56{
-    width:852px;
+    width:851px;
     height:100%;
     margin-top:0px;
     float:right;
+    border-right: solid #98bf21 1px;
+    border-color:#98bf21;
 }
 
 #index_57{
